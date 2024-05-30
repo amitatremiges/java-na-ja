@@ -1,4 +1,7 @@
+package com.test;
+
 import java.sql.*;
+
 
 public class Example {
     public static void main(String[] args) {
